@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Facturacion</title>
 </head>
 <body class="bg-secondary">
 <header>
@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.html">Inicio</a>
+          <a class="nav-link" href="index.php">Inicio</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Compras <span class="sr-only">(current)</span></a>
